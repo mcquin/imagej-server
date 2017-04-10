@@ -1,0 +1,30 @@
+#modules{
+	width: 100%;
+	overflow: auto;
+}
+
+#module{
+	width: 100%;
+	overflow: auto;
+	font-family: monospace;
+}
+
+.required{
+	font-weight: 900;
+}
+
+.optional{
+	font-weight: 100;
+}
+
+.input{
+	color: #d3d3d3;
+}
+
+.active{
+	color: #000
+}
+
+input{
+	color: inherit;
+}
